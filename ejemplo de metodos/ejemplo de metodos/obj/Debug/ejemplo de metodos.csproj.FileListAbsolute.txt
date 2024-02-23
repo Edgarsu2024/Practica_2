@@ -1,0 +1,11 @@
+E:\programacion 3\ejemplo de metodos\ejemplo de metodos\bin\Debug\ejemplo de metodos.exe.config
+E:\programacion 3\ejemplo de metodos\ejemplo de metodos\bin\Debug\ejemplo de metodos.exe
+E:\programacion 3\ejemplo de metodos\ejemplo de metodos\bin\Debug\ejemplo de metodos.pdb
+E:\programacion 3\ejemplo de metodos\ejemplo de metodos\obj\Debug\ejemplo de metodos.csproj.AssemblyReference.cache
+E:\programacion 3\ejemplo de metodos\ejemplo de metodos\obj\Debug\ejemplo de metodos.csproj.SuggestedBindingRedirects.cache
+E:\programacion 3\ejemplo de metodos\ejemplo de metodos\obj\Debug\ejemplo_de_metodos.Form1.resources
+E:\programacion 3\ejemplo de metodos\ejemplo de metodos\obj\Debug\ejemplo_de_metodos.Properties.Resources.resources
+E:\programacion 3\ejemplo de metodos\ejemplo de metodos\obj\Debug\ejemplo de metodos.csproj.GenerateResource.cache
+E:\programacion 3\ejemplo de metodos\ejemplo de metodos\obj\Debug\ejemplo de metodos.csproj.CoreCompileInputs.cache
+E:\programacion 3\ejemplo de metodos\ejemplo de metodos\obj\Debug\ejemplo de metodos.exe
+E:\programacion 3\ejemplo de metodos\ejemplo de metodos\obj\Debug\ejemplo de metodos.pdb
